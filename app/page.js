@@ -56,7 +56,7 @@ export default function Home() {
         <div className="flex mt-2 gap-4">
           <a
             className="rounded-full border border-solid border-[#ccc] transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-gray-300 text-sm h-12 px-5 w-32"
-            href="https://drive.google.com/file/d/1fWyhrccM9kytUcNno6k2RYungZfZRDzN/view?usp=sharing"
+            href="https://drive.google.com/file/d/16M2Rsj7XyySdWoGWNIj8MnKoyZp7rspN/view?usp=sharing"
           >
             Resume →
           </a>
